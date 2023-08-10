@@ -1,6 +1,6 @@
 ## Delphai challenge
 
-### First task
+### First Task
 The first task is about snapshotting a MongoDB cluster using a Python script.
 To run the project, you need to have a MongoDB cluster already installed and accessible by the script,
 and a Python3.10+.
@@ -18,3 +18,6 @@ Executing the projects needs only the following steps:
 > **NOTE:** The project for sure can have other improvements, such as unit testing, e2e testing,
 > proper logging with JSON format, metrics, retry mechanisms, etc... But let's stick to basic
 > functionalities right now.
+
+### Second Task
+You can the technical proposal [here](./task_2/README.md).
